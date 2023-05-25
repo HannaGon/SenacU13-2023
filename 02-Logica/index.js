@@ -69,6 +69,14 @@ for (i=0;i<3;i++){
     console.log("Repetir 3 vezes")
 }
 
+console.log("---Exemplo de for 2 ------")
+
+let numeroIncremental = 10
+for (j=0;j<3;j++){
+    console.log(numeroIncremental)
+    numeroIncremental +=10
+}
+
 //while
 console.log("---Exemplo de while ------")
 let contador = "O"
