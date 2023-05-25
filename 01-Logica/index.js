@@ -1,16 +1,22 @@
 //console.log()
 //exibe o valor inserido entre parenteses
 
+//tipos de dados
+console.log("---Tipos de dados --------")
+
 console.log("isso é uma string")    //string
 console.log(25)                     //número
 console.log(false)                  //boolean
+
+//tratando de strings
+console.log("---Tratamento de strings -")
 
 let saudacao = "bom dia!"
 console.log(saudacao)               //é possível utilizar variáveis
 let dia = 26
 console.log(saudacao + " hoje é dia " + dia)  
     //pode se utilizar + para concatenar valores
-console.log(`${saudacao}, hoje é dia ${dia}`)
+console.log(`${saudacao} hoje é dia ${dia}`)
     //é possível escrever strings sem concatenar
     //escreva entre `` e com as variáveis dentro de ${}
 
