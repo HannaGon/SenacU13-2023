@@ -1,15 +1,15 @@
 /* Dado um array de objetos: */
-
 const usuarios = [
-    { nome: "Jordana", idade: 18 },
-    { nome: "Lilian", idade: 28 },
-    { nome: "Janaina", idade: 19 }
+    { nome: "Maria", idade: 19 },
+    { nome: "Lidiane", idade: 29 },
+    { nome: "Joana", idade: 20 }
 ];
 
-/*Imprima o nome e idade de todos os valores da variável.
+/*Exiba o nome e idade de todos os valores da variável.
+
 A saída deverá ser:
-Jordana
-18
-Lilian
-28
-...*/
+Nome
+Idade
+Nome
+Idade
+etc */

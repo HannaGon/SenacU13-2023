@@ -19,8 +19,8 @@ const livros = {
 
 /*Liste todas as informações com o laço for in
 A saída deverá ser:
-Javascript Eloquente
-Marijn Haverbeke
-https://github.com/braziljs/eloquente-javascript
-...
+Titulo
+Autor
+Link
+...etc
 */

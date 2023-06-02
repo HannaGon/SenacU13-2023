@@ -1,5 +1,5 @@
 /*Crie um objeto chamado animal com as seguintes propriedades e valores:
-    porte = grande
+    porte = medio
     especie = cachorro
-    raca = golden
+    raca = labrador
 */

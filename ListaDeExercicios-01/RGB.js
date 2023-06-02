@@ -1,4 +1,4 @@
-//Dado o objeto abaixo, exiba todos os valores do mesmo no formato "chave: valor"
+//Dado o objeto abaixo, exiba todos os valores no formato "chave: valor"
 
 const coresRGB = [
     {

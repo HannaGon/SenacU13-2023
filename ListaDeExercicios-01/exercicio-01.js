@@ -1,2 +1,2 @@
-/*Armazene na váriavel nomeAluno o nome "Alberto"
- e utilize o console.log() para exibir seu valor.*/
+/*Crie a variável nomeAluno e armazene o nome "Alberto"
+utilize o console.log() para exibir o valor da variável.*/

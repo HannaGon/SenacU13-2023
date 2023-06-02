@@ -7,6 +7,6 @@ const endereco = {
     uf: "SP"
 };
 /*Retorne o seguinte conteúdo:*
-A {nome} {Sobrenome} mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com
+Funcionário {nome} {Sobrenome} mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com
 nº 1293.
 O retorno deverá ser template string*/
