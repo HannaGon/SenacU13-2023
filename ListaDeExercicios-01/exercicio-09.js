@@ -13,3 +13,6 @@ Idade
 Nome
 Idade
 etc */
+for(let usuario of usuarios){
+    console.log(`Nome: ${usuario.nome}\nIdade: ${usuario.idade}`)
+}

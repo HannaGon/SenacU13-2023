@@ -3,3 +3,8 @@
     especie = cachorro
     raca = labrador
 */
+const animal = {
+    porte: "Médio",
+    especie: "Cachorro",
+    raca: "Labrador"
+}
