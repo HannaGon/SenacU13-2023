@@ -7,3 +7,13 @@ function getUser(id, nome) {
     nome: nome
   }
 }
+let id = 1
+let nome = "abx"
+
+getUserArrow = (id, nome) => {
+  return{
+    id: id,
+    nome: nome
+  } 
+}
+console.log(getUserArrow(id, nome))

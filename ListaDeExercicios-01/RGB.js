@@ -152,3 +152,4 @@ const coresRGB = [
     "yellowgreen": [154, 205, 50, 1],
     "rebeccapurple": [102, 51, 153, 1]
 }]
+console.log(coresRGB[0])

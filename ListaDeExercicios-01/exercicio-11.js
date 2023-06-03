@@ -24,3 +24,6 @@ Autor
 Link
 ...etc
 */
+for(let print in livros){
+    console.log(livros[print])
+}
