@@ -13,3 +13,8 @@ Idade
 Nome
 Idade
 etc */
+
+for (let i = 0; i < usuarios.length; i++) {
+    console.log("Nome: " + usuarios[i].nome);
+    console.log("Idade: " + usuarios[i].idade);
+}

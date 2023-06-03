@@ -24,3 +24,10 @@ Autor
 Link
 ...etc
 */
+   
+for (let info in livros) {
+    console.log("Título: " + livros[info].titulo);
+    console.log("Autor: " + livros[info].quemEscreveu);
+    console.log("Link: " + livros[info].link);
+    console.log();
+}

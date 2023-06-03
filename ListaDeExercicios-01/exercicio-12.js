@@ -10,3 +10,7 @@ const endereco = {
 Funcionário {nome} {Sobrenome} mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com
 nº 1293.
 O retorno deverá ser template string*/
+
+let nome = "Pedro";
+console.log("O funcionário " + nome + ", mora em " + endereco.cidade + " - " + endereco.uf +
+", no bairro " + endereco.bairro + ", na rua " + endereco.rua + ", com o número " + endereco.numero + ".")
